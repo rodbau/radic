@@ -549,7 +549,7 @@
 					</div>
 					
 					<div class="view-all">
-						<a class="black-btn" href="" target="_blank">Ver todos</a>
+						<a class="black-btn" href="/images/JuanPabloRadic-portfolio.pdf" target="_blank">Ver todos</a>
 					</div>
 					
 					
