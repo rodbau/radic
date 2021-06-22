@@ -562,18 +562,13 @@
 					<div id="client-words" class="owl-carousel">
 						
 						<div>
-							<p>Keep away from people who try to belittle your ambitions Small people always do that but the really great. Friendly neighbour there that power. Keep away from people who try to belittle your ambitions Small people always do that but the really great.</p>
-							<span>- john smith, <span class="client">client</span></span>
+							<p>Tuve una gran experiencia con todo el equipo de Radic, me brindaron un servicio excelente en la remodelación de mi hogar.</p>
+							<span>- Esteban<span class="client">client</span></span>
 						</div>
 						
 						<div>
-							<p>Keep away from people who try to belittle your ambitions Small people always do that but the really great. Friendly neighbour there that power. Keep away from people who try to belittle your ambitions Small people always do that but the really great.</p>
-							<span>- Wahab Apple, <span class="client">client</span></span>
-						</div>
-						
-						<div>
-							<p>Keep away from people who try to belittle your ambitions Small people always do that but the really great. Friendly neighbour there that power. Keep away from people who try to belittle your ambitions Small people always do that but the really great.</p>
-							<span>- Johny Bravo, <span class="client">client</span></span>
+							<p>Muy buen trato y comunicación en todo momento por parte del equipo de Radic.</p>
+							<span>- Carlos<span class="client">client</span></span>
 						</div>
 						
 					</div>
