@@ -206,7 +206,7 @@ img:hover {transition: background-color 0.5s ease; }
 
 /*.. heading ..*/
 .gray-bg{ background:#f7f8f9;}
-.sec-space{ padding:110px 0;}
+.sec-space{ padding:40px 0;}
 .main-heading{text-align:center;}
 .main-heading h4{ text-transform: uppercase; letter-spacing: 11px;}
 .main-heading h1{ background: url(../images/black-wave.png) no-repeat center 108px; padding:0 0 18px 0; margin:-14px 0 0 0;}
@@ -235,9 +235,9 @@ span.big-text{ font-size:54px; font-weight:300; text-transform:uppercase;}
 
 /*..... MAIN TEXT ......*/
 
-.our-studio{ text-align:center; margin:110px 0 0 0;}
+.our-studio{ text-align:center; margin:60px 0 0 0;}
 .our-studio .icons{display: inline-block;}
-.our-studio .icons i{ font-size:142px; float:left;}
+.our-studio .icons i{ font-size:100px; float:left;}
 .our-studio .icons i:nth-of-type(1){ margin:10px 30px 0 0;}
 .our-studio .icons i:nth-of-type(2){}
 .our-studio .icons i:nth-of-type(3){}
