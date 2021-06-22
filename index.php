@@ -65,11 +65,11 @@
         
         <nav>
 		<ul class="cd-primary-nav">
-			<li><a href="http://radic.herokuapp.com/#home">Inicio</a></li>
-			<li><a href="http://radic.herokuapp.com/#sec-space">Proyectos</a></li>
-			<li><a href="http://radic.herokuapp.com/#about">Clientes</a></li>
-			<li><a href="http://radic.herokuapp.com/#services">Servicios</a></li>
-			<li><a href="http://radic.herokuapp.com/#contact">Contactanos</a></li>
+			<li><a href="#home" onclick="window.location.reload(true);">Inicio</a></li>
+			<li><a href="#sec-space" onclick="window.location.reload(true);">Proyectos</a></li>
+			<li><a href="#about" onclick="window.location.reload(true);">Clientes</a></li>
+			<li><a href="#services" onclick="window.location.reload(true);">Servicios</a></li>
+			<li><a href="#contact" onclick="window.location.reload(true);">Contactanos</a></li>
 			
 			<li class="social-icons">
                 <a href="https://instagram.com/radiccondocanari"><span class="icon-instagram"></span></a>
