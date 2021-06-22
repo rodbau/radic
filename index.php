@@ -545,7 +545,7 @@
 		
 		
 		<!-- START OUR STUDIOS -->	
-		<section id="about" class="sec-space clients-words">
+		<section id="about" class="sec-space clients-words"	style="background: #242526;">
 		  <div class="container">
 		  
 			<div class="col-md-12">
