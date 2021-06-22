@@ -45,7 +45,7 @@
 	
 	<!-- LOADER -->
 	<div id="loader-wrapper">
-	  <div id="loader"><img src="images/logo-white.png" alt=""><span></span></div>
+	  <div id="loader"><img src="images/services-img1.jpg" alt=""><span></span></div>
 	  <!--/#loader-->
 	  <div class="loader-section section-left"></div>
 	  <!--/#loader-section section-left-->
@@ -65,14 +65,14 @@
         
         <nav>
 		<ul class="cd-primary-nav">
-			<li><a href="index.html">Inicio</a></li>
-			<li><a href="#sec-space">Proyectos</a></li>
-			<li><a href="#about">Clientes</a></li>
-			<li><a href="#services">Servicios</a></li>
-			<li><a href="#contact">Contactanos</a></li>
+			<li><a href="http://radic.herokuapp.com/#home">Inicio</a></li>
+			<li><a href="http://radic.herokuapp.com/#sec-space">Proyectos</a></li>
+			<li><a href="http://radic.herokuapp.com/#about">Clientes</a></li>
+			<li><a href="http://radic.herokuapp.com/#services">Servicios</a></li>
+			<li><a href="http://radic.herokuapp.com/#contact">Contactanos</a></li>
 			
 			<li class="social-icons">
-                <a href="#."><span class="icon-instagram"></span></a>
+                <a href="https://instagram.com/radiccondocanari"><span class="icon-instagram"></span></a>
             </li>
             
 		</ul>
@@ -90,13 +90,13 @@
 					<div class="col-md-12">
 						
 						<div class="logo">
-							<a href="index.html"><img src="images/logo-white.png" alt=""></a>
+							<a href="#home"><img src="images/logo-white.png" alt=""></a>
 						</div>
 						
 						<div class="navigation">
 						
 						<ul>
-							<li class="select"><span>01.</span><a href="index.html">Inicio</a></li>
+							<li class="select"><span>01.</span><a href="#home">Inicio</a></li>
 							<li><span>02.</span><a href="#sec-space">Proyectos</a></li>
 							<li><span>03.</span><a href="#about">Clientes</a></li>
 							<li><span>04.</span><a href="#services">Servicios</a></li>
@@ -124,13 +124,13 @@
 					<div class="col-md-12">
 						
 						<div class="logo">
-							<a href="#."><img src="images/logo-white.png" alt=""></a>
+							<a href="#home"><img src="images/logo-white.png" alt=""></a>
 						</div>
 						
 						<div class="navigation">
 						
 						<ul>
-							<li class="select"><a href="index.html">Inicio</a></li>
+							<li class="select"><a href="#home">Inicio</a></li>
 							<li><a href="#sec-space">Proyectos</a></li>
 							<li><a href="#about">Clientes</a></li>
 							<li><a href="#services">Servicios</a></li>
@@ -160,7 +160,7 @@
 	<!--
 	#################################
 	-->
-	<div class="tp-banner-container main-banner">
+	<div id="home" class="tp-banner-container main-banner">
 		<div class="tp-banner white-slide " >
 			<ul>	<!-- SLIDE  -->
 	<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-thumb=""  data-saveperformance="on"  data-title="Intro Slide">
