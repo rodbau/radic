@@ -563,12 +563,12 @@
 						
 						<div>
 							<p>Tuve una gran experiencia con todo el equipo de Radic, me brindaron un servicio excelente en la remodelación de mi hogar.</p>
-							<span>- Esteban -<span class="client">cliente</span></span>
+							<span>- Esteban - <span class="client">cliente</span></span>
 						</div>
 						
 						<div>
 							<p>Muy buen trato y comunicación en todo momento por parte del equipo de Radic.</p>
-							<span>- Carlos -<span class="client">cliente</span></span>
+							<span>- Carlos - <span class="client">cliente</span></span>
 						</div>
 						
 					</div>
