@@ -148,8 +148,8 @@ img:hover {transition: background-color 0.5s ease; }
 /*..... HEADER One ......*/
 
 .header-one{ position:absolute; z-index:100; width:100%;}
-.header{background:#000; padding:25px 15px;}
-.header .logo{float:left; width:175px;}
+.header{background:#504F4F; padding:25px 15px;}
+.header .logo{float:left; width:75px;}
 .header .logo img{ width:100%;}
 .header .navigation{ float:right; font-family: 'Montserrat', sans-serif; margin:25px 0 0 0;}
 .header .navigation ul{ float:left;}
@@ -172,10 +172,10 @@ img:hover {transition: background-color 0.5s ease; }
 
 
 /*..... HEADER ONE ON SCROLL ......*/
-.header-two{ position:absolute; z-index:100; width:100%; background-color: #000; }
-.header-two .header{background:#000; padding:20px 0;}
+.header-two{ position:absolute; z-index:100; width:100%; background-color: #504F4F; }
+.header-two .header{background:#504F4F; padding:20px 0;}
 .header-two .header .navigation { margin:10px 0 0 0;}
-.header-two .header .logo{ width:236px;}
+.header-two .header .logo{ width:75px;}
 
 
 
@@ -183,7 +183,7 @@ img:hover {transition: background-color 0.5s ease; }
 .header-two-main{ position:fixed; z-index:1002; width:100%;}
 .header-two-main .header{background:#fff; padding:12px 4%;}
 .header-two-main .header .navigation .language{ margin:0 0 0 5px;}
-.header-two-main .header .logo { width: 155px;}
+.header-two-main .header .logo { width: 75px;}
 .header-two-main .header ul li{ margin:0px;}
 .header-two-main .header ul li a{color:#010101; padding:14px 38px;}
 .header-two-main .header ul li a:hover{color:#fff; border-radius: 40px;}
