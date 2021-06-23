@@ -616,8 +616,8 @@
 									   <div class="row">
 										
 										<div class="col-md-6">
-											<div class="welcome-serv-img">
-												<img src="images/services-img1.jpg" alt="">
+											<div class="welcome-serv-img" style="text-align: center;">
+												<img src="images/services-img1.jpg" alt="" style="max-width: 65%;">
 											</div>	
 										</div>
 										
@@ -632,11 +632,7 @@
 													implementación de protocolos de salud y seguridad, al mismo
 													tiempo que facilitamos la practicidad y confort de los espacios
 													construidos.  
-													Nuestra actividad se extiende a múltiples proyectos como edificios
-													para uso comercial, habitacional y de oficinas, desarrollos
-													inmobiliarios y hoteleros, viviendas en barrios cerrados,
-													remodelaciones y ambientaciones en general, siempre aplicando
-													una mirada racional, funcional e innovadora en cada desarrollo.</p>
+												</p>
 											</div>
 											
 										</div>
